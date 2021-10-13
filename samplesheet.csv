@@ -1,4 +1,8 @@
-sample,left_reads,right_reads,long_reads,db_seq
-MCF_rand25,https://github.com/letovesnoi/test-datasets/blob/clusterassembly/MCF_rand25/left.rand25.fastq.gz,https://github.com/letovesnoi/test-datasets/blob/clusterassembly/MCF_rand25/right.rand25.fastq.gz,https://github.com/letovesnoi/test-datasets/blob/clusterassembly/MCF_rand25/isoseq.rand25.fasta.gz,https://github.com/letovesnoi/test-datasets/blob/clusterassembly/MCF_rand25/transcripts.rand25.fa.gz
-sim_mouse_chr6,https://github.com/letovesnoi/test-datasets/blob/clusterassembly/mouse_chr6/simulated_reads/Illumina.simulated_1.fq.gz,https://github.com/letovesnoi/test-datasets/blob/clusterassembly/mouse_chr6/simulated_reads/Illumina.simulated_2.fq.gz,"https://github.com/letovesnoi/test-datasets/blob/clusterassembly/mouse_chr6/simulated_reads/ONT.simulated.fastq.gz,https://github.com/letovesnoi/test-datasets/blob/clusterassembly/mouse_chr6/simulated_reads/PacBio.simulated.fasta.gz",https://github.com/letovesnoi/test-datasets/blob/clusterassembly/mouse_chr6/gencode.vM21.transcripts.chr6.fa.gz
-
+sample,type,reads_1,reads_2
+MCF_rand25,paired_reads,https://github.com/letovesnoi/test-datasets/blob/clusterassembly/MCF_rand25/left.rand25.fastq.gz,https://github.com/letovesnoi/test-datasets/blob/clusterassembly/MCF_rand25/right.rand25.fastq.gz
+MCF_rand25,long_reads,https://github.com/letovesnoi/test-datasets/blob/clusterassembly/MCF_rand25/isoseq.rand25.fasta.gz,
+MCF_rand25,db_seq,https://github.com/letovesnoi/test-datasets/blob/clusterassembly/MCF_rand25/transcripts.rand25.fa.gz,
+sim_mouse_chr6,paired_reads,https://github.com/letovesnoi/test-datasets/blob/clusterassembly/mouse_chr6/simulated_reads/Illumina.simulated_1.fq.gz,https://github.com/letovesnoi/test-datasets/blob/clusterassembly/mouse_chr6/simulated_reads/Illumina.simulated_2.fq.gz
+sim_mouse_chr6,long_reads,https://github.com/letovesnoi/test-datasets/blob/clusterassembly/mouse_chr6/simulated_reads/ONT.simulated.fastq.gz,
+sim_mouse_chr6,long_reads,https://github.com/letovesnoi/test-datasets/blob/clusterassembly/mouse_chr6/simulated_reads/PacBio.simulated.fasta.gz,
+sim_mouse_chr6,db_seq,https://github.com/letovesnoi/test-datasets/blob/clusterassembly/mouse_chr6/gencode.vM21.transcripts.chr6.fa.gz,
