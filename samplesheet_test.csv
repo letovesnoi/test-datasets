@@ -1,4 +1,4 @@
 sample,type,reads_1,reads_2
-MCF_rand25,paired_reads,https://github.com/letovesnoi/test-datasets/blob/clusterassembly/MCF_rand25/left.rand25.fastq.gz?raw=true,https://github.com/letovesnoi/test-datasets/blob/clusterassembly/MCF_rand25/right.rand25.fastq.gz?raw=true
-MCF_rand25,long_reads,https://github.com/letovesnoi/test-datasets/blob/clusterassembly/MCF_rand25/isoseq.rand25.fasta.gz?raw=true,
-MCF_rand25,db_seq,https://github.com/letovesnoi/test-datasets/blob/clusterassembly/MCF_rand25/transcripts.rand25.fa.gz?raw=true,
+MCF_rand25,paired_reads,https://raw.githubusercontent.com/letovesnoi/test-datasets/clusterassembly/MCF_rand25/left.rand25.fastq.gz,https://raw.githubusercontent.com/letovesnoi/test-datasets/clusterassembly/MCF_rand25/right.rand25.fastq.gz
+MCF_rand25,long_reads,https://raw.githubusercontent.com/letovesnoi/test-datasets/clusterassembly/MCF_rand25/isoseq.rand25.fasta.gz,
+MCF_rand25,db_seq,https://raw.githubusercontent.com/letovesnoi/test-datasets/clusterassembly/MCF_rand25/transcripts.rand25.fa.gz,
