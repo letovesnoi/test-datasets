@@ -1,4 +1,4 @@
 sample,type,reads_1,reads_2
 ECOLI_1K,short_reads,https://raw.githubusercontent.com/letovesnoi/test-datasets/clusterassembly/ecoli_1K/ecoli_1K_1.fq.gz,https://raw.githubusercontent.com/letovesnoi/test-datasets/clusterassembly/ecoli_1K/ecoli_1K_2.fq.gz
-ECOLI_1K,long_reads,https://raw.githubusercontent.com/letovesnoi/test-datasets/clusterassembly/ecoli_1K/reference_1K.fa.gz,
-ECOLI_1K,db_seq,https://raw.githubusercontent.com/letovesnoi/test-datasets/clusterassembly/ecoli_1K/reference_1K.fa.gz,
+ECOLI_1K,long_reads,https://raw.githubusercontent.com/letovesnoi/test-datasets/clusterassembly/ecoli_1K/long_reads.fa.gz,
+ECOLI_1K,db_seq,https://raw.githubusercontent.com/letovesnoi/test-datasets/clusterassembly/ecoli_1K/transcripts.fa.gz,
